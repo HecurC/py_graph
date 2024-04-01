@@ -3,6 +3,9 @@ Module for python made by K. Polyakov
 
 Версия 1.5.4 от 15.04.2022
 
+# Setup
+%PATH_TO_PYTHON%\python setup.py install
+
 # Общее описание
 
 Модуль graph – это набор функций, который представляет собой «обёртку» для создания учебных графических программ на языке Python на основе виджета Canvas библиотеки Tkinter.
